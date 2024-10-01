@@ -1,2 +1,2 @@
 # sc_302_documentacion
-Es un laboratorio de git hu, prasctica semana 3
+Es un laboratorio de github, practica semana 3
